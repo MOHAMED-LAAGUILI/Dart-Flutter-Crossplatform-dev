@@ -1,0 +1,13 @@
+to work with dart u need to install  dart SDK
+https://gekorm.com/dart-windows/
+
+and an ide to run the dart code like IntelliJ IDEA
+https://www.jetbrains.com/idea/download/#section=windows
+
+After installation you need to copy the path of dart sdk lib it exist in 
+C:\Program Files\Dart\dart-sdk\lib
+copy this one above
+
+ten go to  Ce pc right click
+ -> properties -> Parametre avance de system -> Variable denveronnement -> double click to path -> add 
+-> paste this copy C:\Program Files\Dart\dart-sdk\lib
